@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToe", "TicTacToe.vcxproj", "{CF7CABD2-3454-4C42-B551-324B8A3B76F3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToeLib", "..\TicTacToeLib\TicTacToeLib.vcxproj", "{F50B195B-B751-45FA-92E9-9182EEB97320}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TicTacToeLib", "..\TicTacToe\TicTacToeLib\TicTacToeLib.vcxproj", "{F50B195B-B751-45FA-92E9-9182EEB97320}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

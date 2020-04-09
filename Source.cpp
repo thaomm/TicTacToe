@@ -1,4 +1,5 @@
-#include "TicTacToeLib.h"
+#include "TicTacToeLib/TicTacToeLib.h"
+#include <vector>
 
 int main()
 {

@@ -1,0 +1,3 @@
+﻿  TicTacToeLib.cpp
+D:\Intern GAMELOFT\TicTacToe\TicTacToeLib\TicTacToeLib.cpp(117,21): warning C4018: '<': signed/unsigned mismatch
+  TicTacToeLib.vcxproj -> D:\Intern GAMELOFT\TicTacToe\Debug\TicTacToeLib.lib
